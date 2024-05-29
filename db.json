@@ -10,7 +10,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/722643.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 3.5 
+      "rating": 3.5,
+      "count": 0 
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/86f8b8013f397853f709060bd2a1d8577607cdef_1639080552.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 4.5  
+      "rating": 4.5,
+      "count": 0  
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/859394.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 2.5  
+      "rating": 2.5,
+      "count": 0  
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/de77a4c45a43dd3b5f7fa1c73006b7f70ccc60df_1641184037.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90" ,
       "available": true,
-      "rating": 3 
+      "rating": 3,
+      "count": 0 
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/767f741f9511e65a8a162dad124b0425ac7bdebd_1598040602.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 4  
+      "rating": 4,
+      "count": 0  
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/af6ecf7bf08dedf5c8a2e1289adbb1240b8301f7_1653400454.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 4.5  
+      "rating": 4.5,
+      "count": 0  
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/55af8a7ccccdf31d8cd7b2cf85e8b7be29390562_1695125928.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 2  
+      "rating": 2,
+      "count": 0  
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/794a92424cbd77cb8832a1e285367e7bc54da3c8_1661750037.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 3.5  
+      "rating": 3.5,
+      "count": 0  
     },
     {
       "id": 9,
@@ -106,7 +114,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/4867036.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 4  
+      "rating": 4,
+      "count": 0  
     },
     {
       "id": 10,
@@ -118,7 +127,8 @@
       "material": "Plastic/Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/85625615ef0baa4f07cab0703a192ae2a415acff_1699950538.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 3  
+      "rating": 3,
+      "count": 0  
     },
     {
       "id": 11,
@@ -130,7 +140,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/1195a4fae637c050341405fd65b872af568dce50_1695232035.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 4.5  
+      "rating": 4.5,
+      "count": 0  
     },
     {
       "id": 12,
@@ -142,7 +153,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/860efdbf714edc124c8439b36f0641342f3b598b_1692269113.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 5  
+      "rating": 5,
+      "count": 0  
     },
     {
       "id": 13,
@@ -154,7 +166,8 @@
       "material": "Steel",
       "image": "https://dkstatics-public.digikala.com/digikala-products/d55d11727a2e3701e2b3217e80df4f9e73e05fcd_1685435907.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 2.5  
+      "rating": 2.5,
+      "count": 0  
     },
     {
       "id": 14,
@@ -166,7 +179,8 @@
       "material": "Steel",
       "image": "https://dkstatics-public.digikala.com/digikala-products/c4142e214784e07771b4d7eb002078e7a2ff5390_1697454317.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 3.5  
+      "rating": 3.5,
+      "count": 0  
     },
     {
       "id": 15,
@@ -178,7 +192,8 @@
       "material": "Plastic/Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/881da45dbd20f223d49f456b09449d0c14111320_1649247981.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 4  
+      "rating": 4,
+      "count": 0  
     },
     {
       "id": 16,
@@ -190,7 +205,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/ab3ee8549e35f257ccfeaef65f477935b4bf0b5e_1670399883.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 3.5  
+      "rating": 3.5,
+      "count": 0  
     },
     {
       "id": 17,
@@ -202,7 +218,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/a848a9ee5aca2dae1e854b6f636f8d1bfbc879fa_1699528186.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 5  
+      "rating": 5,
+      "count": 0  
     },
     {
       "id": 18,
@@ -214,7 +231,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/4bdb5bccea1e6df85a1f506c0f929a424ef95ca0_1665788448.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 4.5  
+      "rating": 4.5,
+      "count": 0  
     },
     {
       "id": 19,
@@ -226,7 +244,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/fc9c2da4a83e5a3111aea1d9de69a5cd4cc5e841_1685435563.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 4  
+      "rating": 4,
+      "count": 0  
     },
     {
       "id": 20,
@@ -238,7 +257,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/81d93d7542d62cf27c5081f42be41f4050781595_1696105406.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 3.5  
+      "rating": 3.5,
+      "count": 0  
     },
     {
       "id": 21,
@@ -250,7 +270,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/e9e7ae8056e9f1492a005c2af87d5209eff1799e_1691051650.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 4  
+      "rating": 4,
+      "count": 0  
     },
     {
       "id": 22,
@@ -262,7 +283,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/8aeae383714bc33edf4e895d67a1fbe63f66b80f_1685452998.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 4.5  
+      "rating": 4.5,
+      "count": 0  
     },
     {
       "id": 23,
@@ -274,7 +296,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/34db05f29b8639aeb2172906f2df426744d6d253_1703591592.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 4.5  
+      "rating": 4.5,
+      "count": 0  
     },
     {
       "id": 24,
@@ -286,7 +309,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/9a65ffcbd80273f3c7c920152ad08ecdfd9a399c_1691049288.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 3.5  
+      "rating": 3.5,
+      "count": 0  
     },
     {
       "id": 25,
@@ -298,7 +322,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/0c43728d3829f42298b826817868c94fd293e71a_1712661415.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 3.5  
+      "rating": 3.5,
+      "count": 0  
     },
     {
       "id": 26,
@@ -310,7 +335,8 @@
       "material": "Metal",
       "image": "https://dkstatics-public.digikala.com/digikala-products/c29b9dcf7a4db1690a316241cc1077d10796c338_1614351871.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": false,
-      "rating": 5  
+      "rating": 5,
+      "count": 0  
     },
     {
       "id": 27,
@@ -322,7 +348,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/bffd916c99f05e38b50b8451061618f4cd044b9d_1641200088.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 1.5  
+      "rating": 1.5,
+      "count": 0  
     },
     {
       "id": 28,
@@ -334,7 +361,8 @@
       "material": "Plastic",
       "image": "https://dkstatics-public.digikala.com/digikala-products/fcd9b733a7505f57819da8cd4b011f902723685e_1638896120.jpg?x-oss-process=image/resize,m_lfit,h_800,w_800/format,webp/quality,q_90",
       "available": true,
-      "rating": 4.5  
+      "rating": 4.5,
+      "count": 0  
     }
   ]
 }
